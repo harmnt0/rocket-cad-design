@@ -22,7 +22,7 @@ This project focuses on how individual components integrate into a complete rock
 ![Rocket Overview](rocket_overview2.png)
 
 ### Isometric View
-![Rocket Isometric](rocket_overview2.png)
+![Rocket Isometric](rocket-isometric2.png)
 
 ### Internal Structure
 ![Internal Structure](internal_strucutre2.png)
